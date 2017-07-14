@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 dcd5201ebdfe2897ed682666a8e396f182547aad Rabbitss <you@example.com> 1500046596 -0300	clone: from https://github.com/TomaDestraido/iptv.git
+dcd5201ebdfe2897ed682666a8e396f182547aad 43b48e3513a8a4fc850b88c50c672eb702001588 Rabbitss <you@example.com> 1500046686 -0300	commit: troca de pasta
+43b48e3513a8a4fc850b88c50c672eb702001588 41e4c9045a94da102452caba3e9f5ad5206110b1 Rabbitss <you@example.com> 1500046905 -0300	commit: Troca de user para callback
+41e4c9045a94da102452caba3e9f5ad5206110b1 3ed099b55c1f9ca47c29499cce5076612fd5faa3 Rabbitss <you@example.com> 1500047180 -0300	commit: Factory
+3ed099b55c1f9ca47c29499cce5076612fd5faa3 38dd093ec510e80abd2a90cef984cba4e97837db Rabbitss <you@example.com> 1500047874 -0300	commit: Registro do módulo de Configuração Auth
+38dd093ec510e80abd2a90cef984cba4e97837db 24427254ebd358fc10a929a5508f82d86b23a714 Rabbitss <you@example.com> 1500048134 -0300	commit: Add configs para módulo de configuração Auth
+24427254ebd358fc10a929a5508f82d86b23a714 54d6e939e7f013ffb06769bf8d53941812d7ffc1 Rabbitss <you@example.com> 1500049069 -0300	commit: Serviço Auth no Constutor
+54d6e939e7f013ffb06769bf8d53941812d7ffc1 98d3e93427987c337ff32498daac67f8481700ee Rabbitss <you@example.com> 1500049824 -0300	commit: Autenticação do usuário no Cadastro
