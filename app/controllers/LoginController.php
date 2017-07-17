@@ -14,7 +14,7 @@ class LoginController extends \HXPHP\System\Controller
         $this->view->setFile('index');
         $post = $this->request->post();
         if (!empty($post)){
-            
+            User::login($post);
         }
     }
 }

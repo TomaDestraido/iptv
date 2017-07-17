@@ -6,7 +6,7 @@ class LoginAttempt extends \HXPHP\System\Model
 	{
 		return count(self::find_all_by_user_id($user_id));
 	}
-
+        
 	public static function TentativasRestantes($user_id)
 	{
 		return intval(5-self::TotalDeTentativas($user_id));
